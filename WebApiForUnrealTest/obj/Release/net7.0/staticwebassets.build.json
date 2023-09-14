@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hjsUmW7shIl99gwOWJQN1OTHJVkdPy4CpcHzocJLrwI=",
+  "Source": "WebApiForUnrealTest",
+  "BasePath": "_content/WebApiForUnrealTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
